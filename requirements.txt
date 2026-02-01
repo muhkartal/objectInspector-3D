@@ -1,0 +1,13 @@
+# Core dependencies
+pygame>=2.5.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Optional: Computer vision (for webcam and feature detection)
+opencv-python>=4.8.0
+
+# Optional: ML inference (for CNN models)
+onnxruntime>=1.15.0
+
+# Optional: GLTF/GLB model loading
+pygltflib>=1.16.0
